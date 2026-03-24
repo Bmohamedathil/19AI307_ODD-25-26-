@@ -29,8 +29,8 @@ To create a file and write text into it using FileWriter in Java.
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
