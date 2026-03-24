@@ -62,8 +62,8 @@ To implement the Singleton design pattern ensuring only one Radar Control Tower 
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002 
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
