@@ -68,8 +68,8 @@ To use interfaces and polymorphism to choose the correct delivery mode based on 
  ```
 /*
 Program to implement a Interface using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
