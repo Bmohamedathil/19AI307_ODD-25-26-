@@ -26,8 +26,8 @@ To avoid NullPointerException by checking if an array element is null before app
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
