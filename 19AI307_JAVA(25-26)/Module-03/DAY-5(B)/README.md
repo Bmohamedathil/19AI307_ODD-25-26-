@@ -28,8 +28,8 @@ To read a number using an Integer wrapper class and determine if it is prime.
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002 
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
