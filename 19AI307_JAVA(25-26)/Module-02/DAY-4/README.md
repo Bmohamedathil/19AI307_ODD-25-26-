@@ -29,8 +29,8 @@ To create a class with a parameterized constructor and display the values passed
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002 
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
