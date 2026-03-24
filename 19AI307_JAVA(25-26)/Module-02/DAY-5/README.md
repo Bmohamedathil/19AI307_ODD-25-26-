@@ -29,8 +29,8 @@ To read a string and determine if all characters are lowercase.
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
