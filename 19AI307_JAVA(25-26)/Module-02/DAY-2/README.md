@@ -27,8 +27,8 @@ To compute the cube of a number using one method calling another.
  ```
 /*
 Program to implement a Methods using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
