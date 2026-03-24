@@ -31,8 +31,8 @@ To demonstrate communication between two threads using piped streams in Java.
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002
+Developed by: Sudhakaran S
+RegisterNumber:  212222220051
 */
 ```
 
