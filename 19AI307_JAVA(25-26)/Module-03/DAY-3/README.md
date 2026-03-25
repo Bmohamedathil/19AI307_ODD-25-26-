@@ -124,15 +124,6 @@ For BetaAgent:
 
 ## PROGRAM:
  ```
-/*
-Program to implement a Abstraction using Java
-Developed by: Sudhakaran S
-RegisterNumber:  212222220051
-*/
-```
-
-## SOURCE CODE:
-```
 import java.util.*;
 
 abstract class Decoder {
