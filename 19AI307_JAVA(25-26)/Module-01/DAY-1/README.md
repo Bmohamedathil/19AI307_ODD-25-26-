@@ -1,5 +1,6 @@
-Ex.No:1(A) INTRODUCTION TO JAVA PROGRAMMING, DATA TYPES, VARIABLES AND OPERATORS
-QUESTION:
+# Ex.No:1(A) INTRODUCTION TO JAVA PROGRAMMING, DATA TYPES, VARIABLES AND OPERATORS
+
+## QUESTION:
 Lovely is a treasure hunter and has reached the final chamber of the dungeon. To unlock the treasure chest, she must enter a secret 4-digit code.
 
 A riddle appears on the wall:
@@ -16,45 +17,60 @@ Third digit = product of the second and fourth numbers
 
 Fourth digit = remainder when third number is divided by first number
 
-Input Format: Enter four numbers as input (integers):
+Input Format:
+Enter four numbers as input (integers):
 
+<number1>
+<number2>
+<number3>
+<number4>
 Output Format:
-The treasure code The treasure code is:
+
+The treasure code
+The treasure code is: <digit1><digit2><digit3><digit4>
 
 For example:
 
-Input Result 4 3 10 2 The treasure code is: 7862
+Input	Result
+4
+3
+10
+2
+The treasure code is: 7862
 
-AIM:
+
+## AIM:
 To generate a 4-digit treasure code using sum, difference, product, and modulus operations on four input integers.
 
-ALGORITHM :
-Read four integers: n1, n2, n3, n4.
-Compute first digit = n1 + n2.
-Compute second digit = n3 - n4.
-Compute third digit = n2 * n4.
-Compute fourth digit = n3 % n1.
-Display the code as a single 4-digit output.
-PROGRAM:
+## ALGORITHM :
+1. Read four integers: n1, n2, n3, n4.
+2. Compute first digit = n1 + n2.
+3. Compute second digit = n3 - n4.
+4. Compute third digit = n2 * n4.
+5. Compute fourth digit = n3 % n1.
+6. Display the code as a single 4-digit output.
 
-      import java.util.Scanner;
-      
-      public class Sourcecode {
-          public static void main(String[] args) {
-              Scanner sc = new Scanner(System.in);
+## PROGRAM:
+ ```
 
-       int n1 = sc.nextInt();
-       int n2 = sc.nextInt();
-       int n3 = sc.nextInt();
-       int n4 = sc.nextInt();
+       import java.util.Scanner;
+       
+       public class Sourcecode {
+           public static void main(String[] args) {
+               Scanner sc = new Scanner(System.in);
 
-       int d1 = n1 + n2;
-       int d2 = n3 - n4;
-       int d3 = n2 * n4;
-       int d4 = n3 % n1;
+        int n1 = sc.nextInt();
+        int n2 = sc.nextInt();
+        int n3 = sc.nextInt();
+        int n4 = sc.nextInt();
 
-       System.out.println("The treasure code is: " + d1 + "" + d2 + "" + d3 + "" + d4);
-   }
+        int d1 = n1 + n2;
+        int d2 = n3 - n4;
+        int d3 = n2 * n4;
+        int d4 = n3 % n1;
+
+        System.out.println("The treasure code is: " + d1 + "" + d2 + "" + d3 + "" + d4);
+    }
 }
 
 ## OUTPUT:
@@ -62,3 +78,4 @@ PROGRAM:
 
 ## RESULT:
 Thus, the treasure code is successfully generated based on the given logic.
+
