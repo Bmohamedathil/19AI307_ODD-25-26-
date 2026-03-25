@@ -25,16 +25,7 @@ To compute the cube of a number using one method calling another.
 
 ## PROGRAM:
  ```
-/*
-Program to implement a Methods using Java
-Developed by: Sudhakaran S
-RegisterNumber:  212222220051
-*/
-```
 
-## SOURCE CODE:
-
-```
 import java.util.Scanner;
 
 class Sourcecode {
